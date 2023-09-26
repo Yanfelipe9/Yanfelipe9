@@ -5,11 +5,6 @@
 - 🌱 I’m currently learning about HTML5, CSS3 and Javascript
 - 💞️ I’m looking to collaborate on Front-End development
 
-<div align="center">
-  <a href="https://github.com/Yanfelipe9">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yanfelipe9&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanfelipe9&layout=compact&langs_count=7&theme=aura"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
