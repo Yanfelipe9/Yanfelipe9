@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning about HTML5, CSS3 and Javascript
+- 🌱 I’m currently learning about React , Styled Components , Tailwind and NodeJS
 - 💞️ I’m looking to collaborate on Front-End development
 
   
@@ -10,6 +10,7 @@
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
   
   ##
