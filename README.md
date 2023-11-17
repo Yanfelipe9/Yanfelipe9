@@ -1,5 +1,5 @@
 <h1>Hi, I’m Yan Felipe 👋</h1> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 -  I'm from Fortaleza/CE, Brazil
 -  Systems Development Analysis Student at Unifor
