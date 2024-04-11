@@ -5,7 +5,7 @@
 -  Systems Development Analysis Student at Unifor
 -  Full Stack Student at the Digital College
 -  I’m interested in Web development
--  I’m currently learning about React , Styled Components , Tailwind and NodeJS
+-  I’m currently learning about React , SQL , Tailwind and NodeJS
 -  I’m looking to collaborate on Front-End development
 
   ##
