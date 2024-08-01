@@ -12,34 +12,20 @@
 
   #### I'm learning about:
   
-<div>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href="https://sass-lang.com">
-      <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-    <a href="https://styled-components.com/">
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href="https://pt-br.react.dev">
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href="https://npmjs.com">
-      <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-    </a>
-    <a href="https://nodejs.org">
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
   ##
@@ -78,10 +64,14 @@
   ##
 
 #### Statistics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?      username=Yanfelipe9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanfelipe9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yanfelipe9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanfelipe9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yanfelipe9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Yanfelipe9&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanfelipe9&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 <!---
 Yanfelipe9/Yanfelipe9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
